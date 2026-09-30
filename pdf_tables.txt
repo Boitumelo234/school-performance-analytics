@@ -1,0 +1,1209 @@
+Total pages: 156
+
+--- page 1, table 0 (6 rows) ---
+HEADER: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+--- page 3, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['1']
+
+--- page 4, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['2']
+
+--- page 5, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['3']
+
+--- page 6, table 0 (21 rows) ---
+HEADER: ['PROVINCES', '', 'Total Number\nof Schools', '0 - 19.9%', '20 - 39.9%', '40 to 59.9%', '60 to 79.9%', '80 to 100%', 'Exactly 0%', 'Exactly\n100%']
+         ROW1:   ['EASTERN CAPE', 'Number', '953', '0', '13', '68', '311', '561', '0', '43']
+
+--- page 6, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['4']
+
+--- page 7, table 1 (2 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['Nelson Mandela Metro', '200100131', '4341014', 'Collegiate Girls High Sch', '5', '0', '156', '0', '126', '0', '134', '0', '149', '0', '138']
+
+--- page 7, table 2 (13 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['Lejweleputswa', '440506235', '3181004', 'Bovaal ACS', '1', '0', '11', '0', '17', '0', '13', '0', '11', '0', '8']
+
+--- page 7, table 3 (22 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['Ekurhuleni North', '700260158', '8260158', 'Kempton Panorama', '4', '0', '1', '0', '16', '0', '10', '0', '9', '0', '21']
+
+--- page 7, table 4 (4 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['AMAJUBA', '500267917', '5213128', 'Siphuthando Public Combin', '3', '16', '10', '11', '17', '10', '15', '7', '30', '7', '16']
+
+--- page 7, table 5 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['5']
+
+--- page 8, table 1 (23 rows) ---
+HEADER: ['ILEMBE', '500164206', '5413207', 'Inhlokozi H', '1', '13', '10', '0', '19', '0', '22', '3', '15', '0', '19']
+         ROW1:   ['ILEMBE', '500335257', '5413316', 'Manaba S', '1', '2', '3', '2', '11', '0', '10', '0', '8', '2', '8']
+
+--- page 8, table 2 (5 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['CapRICORN SOUTH', '923261409', '7032191', 'ST FRANCIS CATHOlIC ACADE', '99', '0', '15', '0', '21', '0', '20', '0', '20', '0', '36']
+
+--- page 8, table 3 (3 rows) ---
+HEADER: ['NORTHERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['Pixley Ka Seme', '300022301', '2022301', 'H/skool Hopetown', '4', '0', '17', '0', '25', '0', '14', '0', '20', '0', '25']
+
+--- page 8, table 4 (7 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['Dr. K. Kaunda District', '600100517', '9225024', 'Ferdinand Postma', '4', '1', '94', '0', '85', '0', '86', '0', '80', '0', '56']
+
+--- page 8, table 5 (10 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['Overberg', '117000842', '1008838', 'Olyfkrans College.', '99', '0', '12', '0', '10', '0', '13', '0', '8', '0', '16']
+
+--- page 8, table 6 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['6']
+
+--- page 9, table 0 (10 rows) ---
+HEADER: ['PROVINCE NAME', 'TOTAL']
+         ROW1:   ['EASTERN CAPE', '1']
+
+--- page 9, table 2 (3 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['SEKHUKHUNE EAST', '925610254', '7093103', 'MADITHAME SENIOR SECONDAR', '1', '0', '35', '23', '36', '2', '41', '1', '42', '1', '43']
+
+--- page 9, table 3 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['7']
+
+--- page 10, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['8']
+
+--- page 11, table 0 (48 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 11, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['9']
+
+--- page 12, table 0 (51 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 12, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['10']
+
+--- page 13, table 0 (52 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 13, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['11']
+
+--- page 14, table 0 (53 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 14, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['12']
+
+--- page 15, table 0 (54 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 15, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['13']
+
+--- page 16, table 0 (52 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 16, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['14']
+
+--- page 17, table 0 (51 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 17, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['15']
+
+--- page 18, table 0 (53 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 18, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['16']
+
+--- page 19, table 0 (52 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 19, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['17']
+
+--- page 20, table 0 (50 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 20, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['18']
+
+--- page 21, table 0 (53 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 21, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['19']
+
+--- page 22, table 0 (53 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 22, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['20']
+
+--- page 23, table 0 (50 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 23, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['21']
+
+--- page 24, table 0 (55 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 24, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['22']
+
+--- page 25, table 0 (55 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 25, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['23']
+
+--- page 26, table 0 (55 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 26, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['24']
+
+--- page 27, table 0 (55 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 27, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['25']
+
+--- page 28, table 0 (55 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 28, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['26']
+
+--- page 29, table 0 (55 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 29, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['27']
+
+--- page 30, table 0 (11 rows) ---
+HEADER: ['EASTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 30, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['28']
+
+--- page 31, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['29']
+
+--- page 32, table 0 (57 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 32, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['30']
+
+--- page 33, table 0 (57 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 33, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['31']
+
+--- page 34, table 0 (53 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 34, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['32']
+
+--- page 35, table 0 (57 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 35, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['33']
+
+--- page 36, table 0 (57 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 36, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['34']
+
+--- page 37, table 0 (56 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 37, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['35']
+
+--- page 38, table 0 (31 rows) ---
+HEADER: ['FREE STATE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 38, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['36']
+
+--- page 39, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['37']
+
+--- page 40, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 40, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['38']
+
+--- page 41, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 41, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['39']
+
+--- page 42, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 42, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['40']
+
+--- page 43, table 0 (57 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 43, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['41']
+
+--- page 44, table 0 (57 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 44, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['42']
+
+--- page 45, table 0 (57 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 45, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['43']
+
+--- page 46, table 0 (55 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 46, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['44']
+
+--- page 47, table 0 (57 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 47, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['45']
+
+--- page 48, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 48, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['46']
+
+--- page 49, table 0 (57 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 49, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['47']
+
+--- page 50, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 50, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['48']
+
+--- page 51, table 0 (54 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 51, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['49']
+
+--- page 52, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 52, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['50']
+
+--- page 53, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 53, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['51']
+
+--- page 54, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 54, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['52']
+
+--- page 55, table 0 (57 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 55, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['53']
+
+--- page 56, table 0 (56 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 56, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['54']
+
+--- page 57, table 0 (16 rows) ---
+HEADER: ['GAUTENG', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 57, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['55']
+
+--- page 58, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['56']
+
+--- page 59, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 59, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['57']
+
+--- page 60, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 60, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['58']
+
+--- page 61, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 61, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['59']
+
+--- page 62, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 62, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['60']
+
+--- page 63, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 63, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['61']
+
+--- page 64, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 64, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['62']
+
+--- page 65, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 65, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['63']
+
+--- page 66, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 66, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['64']
+
+--- page 67, table 0 (55 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 67, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['65']
+
+--- page 68, table 0 (55 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 68, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['66']
+
+--- page 69, table 0 (51 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 69, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['67']
+
+--- page 70, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 70, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['68']
+
+--- page 71, table 0 (55 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 71, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['69']
+
+--- page 72, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 72, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['70']
+
+--- page 73, table 0 (50 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 73, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['71']
+
+--- page 74, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 74, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['72']
+
+--- page 75, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 75, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['73']
+
+--- page 76, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 76, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['74']
+
+--- page 77, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 77, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['75']
+
+--- page 78, table 0 (54 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 78, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['76']
+
+--- page 79, table 0 (55 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 79, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['77']
+
+--- page 80, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 80, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['78']
+
+--- page 81, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 81, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['79']
+
+--- page 82, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 82, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['80']
+
+--- page 83, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 83, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['81']
+
+--- page 84, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 84, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['82']
+
+--- page 85, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 85, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['83']
+
+--- page 86, table 0 (55 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 86, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['84']
+
+--- page 87, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 87, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['85']
+
+--- page 88, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 88, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['86']
+
+--- page 89, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 89, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['87']
+
+--- page 90, table 0 (57 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 90, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['88']
+
+--- page 91, table 0 (56 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 91, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['89']
+
+--- page 92, table 0 (20 rows) ---
+HEADER: ['KWAZULU-NATAL', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 92, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['90']
+
+--- page 93, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['91']
+
+--- page 94, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 94, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['92']
+
+--- page 95, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 95, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['93']
+
+--- page 96, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 96, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['94']
+
+--- page 97, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 97, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['95']
+
+--- page 98, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 98, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['96']
+
+--- page 99, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 99, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['97']
+
+--- page 100, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 100, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['98']
+
+--- page 101, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 101, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['99']
+
+--- page 102, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 102, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['100']
+
+--- page 103, table 0 (53 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 103, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['101']
+
+--- page 104, table 0 (56 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 104, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['102']
+
+--- page 105, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 105, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['103']
+
+--- page 106, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 106, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['104']
+
+--- page 107, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 107, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['105']
+
+--- page 108, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 108, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['106']
+
+--- page 109, table 0 (56 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 109, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['107']
+
+--- page 110, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 110, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['108']
+
+--- page 111, table 0 (56 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 111, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['109']
+
+--- page 112, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 112, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['110']
+
+--- page 113, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 113, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['111']
+
+--- page 114, table 0 (56 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 114, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['112']
+
+--- page 115, table 0 (56 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 115, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['113']
+
+--- page 116, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 116, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['114']
+
+--- page 117, table 0 (57 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 117, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['115']
+
+--- page 118, table 0 (18 rows) ---
+HEADER: ['LIMPOPO', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 118, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['116']
+
+--- page 119, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['117']
+
+--- page 120, table 0 (55 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 120, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['118']
+
+--- page 121, table 0 (57 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 121, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['119']
+
+--- page 122, table 0 (56 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 122, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['120']
+
+--- page 123, table 0 (57 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 123, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['121']
+
+--- page 124, table 0 (56 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 124, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['122']
+
+--- page 125, table 0 (57 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 125, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['123']
+
+--- page 126, table 0 (57 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 126, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['124']
+
+--- page 127, table 0 (56 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 127, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['125']
+
+--- page 128, table 0 (57 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 128, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['126']
+
+--- page 129, table 0 (57 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 129, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['127']
+
+--- page 130, table 0 (37 rows) ---
+HEADER: ['MPUMALANGA', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 130, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['128']
+
+--- page 131, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['129']
+
+--- page 132, table 0 (49 rows) ---
+HEADER: ['NORTHERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 132, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['130']
+
+--- page 133, table 0 (56 rows) ---
+HEADER: ['NORTHERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 133, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['131']
+
+--- page 134, table 0 (49 rows) ---
+HEADER: ['NORTHERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 134, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['132']
+
+--- page 135, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['133']
+
+--- page 136, table 0 (57 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 136, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['134']
+
+--- page 137, table 0 (55 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 137, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['135']
+
+--- page 138, table 0 (56 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 138, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['136']
+
+--- page 139, table 0 (56 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 139, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['137']
+
+--- page 140, table 0 (57 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 140, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['138']
+
+--- page 141, table 0 (56 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 141, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['139']
+
+--- page 142, table 0 (56 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 142, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['140']
+
+--- page 143, table 0 (57 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 143, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['141']
+
+--- page 144, table 0 (24 rows) ---
+HEADER: ['NORTH WEST', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 144, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['142']
+
+--- page 145, table 0 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['143']
+
+--- page 146, table 0 (57 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 146, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['144']
+
+--- page 147, table 0 (57 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 147, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['145']
+
+--- page 148, table 0 (57 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 148, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['146']
+
+--- page 149, table 0 (57 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 149, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['147']
+
+--- page 150, table 0 (57 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 150, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['148']
+
+--- page 151, table 0 (57 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 151, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['149']
+
+--- page 152, table 0 (56 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 152, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['150']
+
+--- page 153, table 0 (56 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 153, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['151']
+
+--- page 154, table 0 (27 rows) ---
+HEADER: ['WESTERN CAPE', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['emaN\ntcirtsiD', 'EMIS No', 'Centre\nNo', 'Centre Name', 'elitniuQ', '2021', '', '', '', '2022', '', '', '', '2023', '', '', '']
+
+--- page 154, table 1 (2 rows) ---
+HEADER: ['']
+         ROW1:   ['152']
+
+--- page 156, table 0 (6 rows) ---
+HEADER: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+         ROW1:   ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
