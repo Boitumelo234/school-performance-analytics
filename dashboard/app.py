@@ -7,7 +7,8 @@ import plotly.express as px
 import requests
 import streamlit as st
 
-API_BASE = os.getenv("API_BASE", "http://127.0.0.1:8000").rstrip("/")
+# API_BASE = os.getenv("API_BASE", "http://127.0.0.1:8000").rstrip("/")
+API_BASE = os.getenv("API_BASE", "https://school-performance-api.onrender.com").rstrip("/")
 GREEN, AMBER, SLATE = "#0B6E4F", "#F4A261", "#1F2933"
 ALL_DISTRICTS = "All districts"
 ALL_PROVINCES = "All provinces"

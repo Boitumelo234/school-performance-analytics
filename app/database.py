@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     """Loaded from environment variables or a .env file (never hardcode secrets)."""
 
     database_url: str = (
-        "mysql+pymysql://root@127.0.0.1:3306/school_performance?charset=utf8mb4"
+        "postgresql://postgres:postgres@localhost:5432/school_performance"
     )
     app_name: str = "School Performance Analytics"
     api_version: str = "1.0.0"
@@ -21,11 +21,14 @@ class Settings(BaseSettings):
 
 settings = Settings()
 
+# Render sometimes provides postgres:// — SQLAlchemy 2.0 requires postgresql://
+_db_url = settings.database_url
+if _db_url.startswith("postgres://"):
+    _db_url = _db_url.replace("postgres://", "postgresql://", 1)
+
 engine = create_engine(
-    settings.database_url,
+    _db_url,
     pool_pre_ping=True,
-    pool_size=10,
-    max_overflow=20,
     pool_recycle=280,
     echo=False,
 )

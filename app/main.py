@@ -6,6 +6,7 @@ import time
 from typing import Optional
 
 from fastapi import Depends, FastAPI, HTTPException, Query, Request
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from sqlalchemy import func, text
 from sqlalchemy.orm import Session
@@ -21,6 +22,14 @@ app = FastAPI(
         "Analytics API for DBE school-level matric performance data: "
         "pass-rate trends across schools, districts, provinces and poverty quintiles."
     ),
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # tighten later to your dashboard URL
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
