@@ -1,5 +1,5 @@
 """
-Transform raw extracted CSVs into a clean long-format table and load into MySQL.
+Transform raw extracted CSVs into a clean long-format table and load into Postgres.
 
 Run from the project root:  python -m scripts.transform
 """
@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 import pandas as pd
-from sqlalchemy.dialects.mysql import insert as mysql_insert
+from sqlalchemy.dialects.postgresql import insert as pg_insert
 
 from app.database import Base, SessionLocal, engine
 from app.models import SchoolPerformance, School, District, Province
@@ -330,18 +330,21 @@ def to_records(df, school_ids):
 def upsert_performance(records, db):
     for start in range(0, len(records), BATCH_SIZE):
         chunk = records[start : start + BATCH_SIZE]
-        stmt = mysql_insert(SchoolPerformance).values(chunk)
-        stmt = stmt.on_duplicate_key_update(
-            centre_no=stmt.inserted.centre_no,
-            centre_name=stmt.inserted.centre_name,
-            district_name=stmt.inserted.district_name,
-            province_name=stmt.inserted.province_name,
-            quintile=stmt.inserted.quintile,
-            school_id=stmt.inserted.school_id,
-            source_year=stmt.inserted.source_year,
-            wrote=stmt.inserted.wrote,
-            achieved=stmt.inserted.achieved,
-            pass_rate=stmt.inserted.pass_rate,
+        stmt = pg_insert(SchoolPerformance).values(chunk)
+        stmt = stmt.on_conflict_do_update(
+            index_elements=["emis_number", "exam_year"],
+            set_=dict(
+                centre_no=stmt.excluded.centre_no,
+                centre_name=stmt.excluded.centre_name,
+                district_name=stmt.excluded.district_name,
+                province_name=stmt.excluded.province_name,
+                quintile=stmt.excluded.quintile,
+                school_id=stmt.excluded.school_id,
+                source_year=stmt.excluded.source_year,
+                wrote=stmt.excluded.wrote,
+                achieved=stmt.excluded.achieved,
+                pass_rate=stmt.excluded.pass_rate,
+            ),
         )
         db.execute(stmt)
     db.commit()
@@ -390,7 +393,7 @@ def main() -> None:
               f"districts={db.query(District).count()} "
               f"schools={db.query(School).count()}")
 
-        print(f"Loaded {upsert_performance(to_records(df, school_ids), db)} rows into MySQL.")
+        print(f"Loaded {upsert_performance(to_records(df, school_ids), db)} rows into Postgres.")
     except Exception:
         db.rollback()
         raise
